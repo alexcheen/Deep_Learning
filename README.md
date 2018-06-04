@@ -9,7 +9,7 @@
 	- [ ] 
 - [ ] CNN
 	- [ ] LeNet
-	- [ ] AlexNet
+	- [x] AlexNet
 	- [ ] GoogLeNet
 	- [ ] ResNet
 - [ ] RNN
