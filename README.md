@@ -12,6 +12,7 @@
 	- [x] AlexNet
 	- [ ] GoogLeNet
 	- [ ] ResNet
+   - [ ] R-CNN
 - [ ] RNN
 	- [ ] LSTM
 	- [ ] GRU
@@ -20,7 +21,7 @@
 - [ ] Transfer Learning
 
 ### Deep Learning Frameworks
-- [ ] TensorFlow
+- [X] TensorFlow
 - [ ] Keras
 
 ### Python 
